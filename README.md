@@ -8,7 +8,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfinotirodrigues&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=00FFFF" />
 </div>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lucasfinotirodrigues&bg_color=0d1117&color=25f833&line=25f833&point=1b9e24&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+##
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lucasfinotirodrigues&bg_color=0d1117&color=00FFFF&line=25f833&point=1b9e24&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 
   ##
