@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+WELCOME+MY+PROFILE;I+am+Lucas+Finoti+Rodrigues!!!;I+am+21+Years;I+am+currently+a+development+intern;+at+the+company+CIAg;I+am+a+Big+Data+student;in+agribusiness;)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasfinotirodrigues&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=0000FF&text_color=0000FF&bg_color=000000" alt="Lucas Finoti github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfinotirodrigues&layout=compact&hide_border=true&title_color=0000FF&text_color=0000FF&bg_color=000000" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasfinotirodrigues&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=00FFFF&bg_color=000000" alt="Lucas Finoti github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfinotirodrigues&layout=compact&hide_border=true&title_color=00FFFF&text_color=00FFFF&bg_color=000000" />
 </div>
 
 ##
