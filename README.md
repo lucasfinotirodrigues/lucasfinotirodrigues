@@ -8,11 +8,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfinotirodrigues&layout=compact&hide_border=true&title_color=00FFFF&text_color=00FFFF&bg_color=000000" />
 </div>
 
-##
-<div style="display: flex; align-items:center; justify-content:center;">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasfinotirodrigues&bg_color=0d1117&color=00FFFF" alt="lucasfinotirodrigues" /></p>
-</div>
-##
 
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lucasfinotirodrigues&bg_color=0d1117&color=00FFFF&line=00FFFF&point=00FFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
