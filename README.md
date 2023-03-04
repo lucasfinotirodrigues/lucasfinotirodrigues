@@ -11,7 +11,10 @@
 ##
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasfinotirodrigues&" alt="lucasfinotirodrigues" /></p>
+
 ##
+
+
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lucasfinotirodrigues&bg_color=0d1117&color=00FFFF&line=00FFFF&point=00FFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 
