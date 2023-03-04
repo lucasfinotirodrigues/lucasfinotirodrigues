@@ -9,9 +9,9 @@
 </div>
 
 ##
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasfinotirodrigues&" alt="lucasfinotirodrigues" /></p>
-
+<div style="display: flex; align-items:center; justify-content:center;">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasfinotirodrigues&" alt="lucasfinotirodrigues" /></p>
+</div>
 ##
 
 
