@@ -10,7 +10,7 @@
 
 ##
 <div style="display: flex; align-items:center; justify-content:center;">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasfinotirodrigues&" alt="lucasfinotirodrigues" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasfinotirodrigues&bg_color=0d1117&color=00FFFF" alt="lucasfinotirodrigues" /></p>
 </div>
 ##
 
