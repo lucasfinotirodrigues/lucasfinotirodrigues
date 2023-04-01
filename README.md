@@ -8,10 +8,19 @@
   </div>
   <br />
   
+   ##
+  
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lucasfinotirodrigues&theme=dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasfinotirodrigues&theme=dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasfinotirodrigues&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
+
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lucasfinotirodrigues&bg_color=red&color=bd93f9&line=bd93f9&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasfinotirodrigues&theme=darkc&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasfinotirodrigues&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
 
 
 
@@ -34,16 +43,6 @@
 
  
   
-
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasfinotirodrigues&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=00FFFF&bg_color=000000" alt="Lucas Finoti github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfinotirodrigues&layout=compact&hide_border=true&title_color=00FFFF&text_color=00FFFF&bg_color=000000" />
-</div>
-
-  ##
-
-
 
 
 ### My range of skills:
