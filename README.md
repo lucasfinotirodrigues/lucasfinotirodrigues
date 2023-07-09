@@ -4,14 +4,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=193C82&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+WELCOME+MY+PROFILE;I+am+Lucas+Finoti+Rodrigues!!!;I+am+22+Years;I+am+currently+a+development+intern;+at+the+company+CIAg;I+am+a+Big+Data+student;in+agribusiness;)](https://git.io/typing-svg)
 
  <div align="center" >
-<img src="https://github-profile-trophy.vercel.app/?username=lucasfinotirodrigues&row=1&column=6&theme=solarized&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=lucasfinotirodrigues&row=1&column=6&theme=dark&margin-w=15&margin-h=15"/>
   </div>
   <br />
   
    ##
 
    
- ![Status](./profile-3d-contrib/profile-night-view.svg)
+ ![Status](./profile-3d-contrib/profile-night-green.svg)
   
   
 
@@ -19,7 +19,7 @@
    
    
 
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasfinotirodrigues&theme=solarized&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasfinotirodrigues&theme=solarized)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasfinotirodrigues&theme=dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasfinotirodrigues&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
 
