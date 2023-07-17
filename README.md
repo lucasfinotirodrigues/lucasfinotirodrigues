@@ -27,7 +27,7 @@
 
    <div align="center" >
  
-   ![Snake animation](https://github.com/lucasfinotirodrigues/lucasfinotirodrigues/blob/output/github-contribution-grid-snake.svg)
+ 
   
    </div>
  
