@@ -40,14 +40,6 @@
 
 
  
-  
-###Visitors in my repository
-
-
-<div align="left">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=lucasfinotirodrigues&repo=luk4x&style=for-the-badge&label=Visitantes&color=#29943B&contentType=svg" alt="Contador de Visitas do Perfil no Github do Lucas Finoti Rodrigues" height="40px" />
-</div>
-
 
 ### My range of skills:
 
