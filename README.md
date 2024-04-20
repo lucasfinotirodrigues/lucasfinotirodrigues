@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=379BD3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=379BD3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+WELCOME+TO+MY+PROFILE;I+am+Lucas+Finoti+Rodrigues!!!;I+am+22+Years;I+am+currently+a+development+intern;+at+the+company+CIAg;I+am+a+Big+Data+student;in+agribusiness;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=379BD3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+WELCOME+TO+MY+PROFILE;My+name+is+Lucas+Finoti+Rodrigues!!!;I+am+22+Years;I+am+currently+a+development+intern;+at+the+company+CIAg;I+am+a+Big+Data+student;in+agribusiness;)](https://git.io/typing-svg)
 
  <div align="center" >
 <img src="https://github-profile-trophy.vercel.app/?username=lucasfinotirodrigues&row=1&column=6&theme=dark&margin-w=15&margin-h=15"/>
